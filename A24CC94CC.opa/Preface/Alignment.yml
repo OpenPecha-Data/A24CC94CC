@@ -1,0 +1,33 @@
+segment_sources:
+  PF12AFCAA:
+    type: origin_type
+    relation: translation
+    language: sa
+  PB4067832:
+    type: origin_type
+    relation: translation
+    language: zh
+  P26998024:
+    type: origin_type
+    relation: translation
+    language: zh
+  P08B4B4FB:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD6D83296:
+    type: origin_type
+    relation: translation
+    language: bo
+  P9D68CCE0:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  1920dc4f3a6b40ff8bed9cbf386f2a21:
+    PF12AFCAA: 6fb07efe43874fd29c633d0c264d3c40
+    PB4067832: 88a94ae3f9ee480ba56ab846847c4d12
+    P26998024: None
+    P08B4B4FB: e7172eb30337487f88845c9add69a58c
+    PD6D83296: 3e6e2a65dc744e5f84dbaa82d7179378
+    P9D68CCE0: None
